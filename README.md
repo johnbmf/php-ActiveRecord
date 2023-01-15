@@ -1,2 +1,2 @@
 # php-ActiveRecord
- Repository to learn and implement and ActiveRecord pattern on php for personal uses
+ Repository to learn and implement an ActiveRecord pattern on php for personal uses
