@@ -1,0 +1,17 @@
+{
+    "name": "jonathan/php-active-record",
+    "description": "To learn and implement ActiveRecord Pattern in php for personal use",
+    "type": "project",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Jonathan\\PhpActiveRecord\\": "model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan Mendoza Farfán"
+        }
+    ],
+    "require": {}
+}
