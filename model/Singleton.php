@@ -18,6 +18,7 @@ class Singleton{
 
     //Metodo con el cual se adquiere la instancia de la clase que implementa Singleton.
     //En el array $instancias se guardan todas las instancias unicas de las clases que implementan Singleton.
+    //Las clases que extiendan singleton deben instanciarse con este metodo en vez de crear el objeto con new.
     public static function getInstance() : static{
         $child = static::class;
 
